@@ -3,8 +3,8 @@
 A modern, responsive business portfolio website built as part of the Outcome School Web Development curriculum (Week 8 Session 2). The application features responsive visual layouts, smooth UI interactions, custom inline JavaScript form validation, and full live deployment.
 
 ## 🚀 Live Demo & Repository
-* **Live Site:** [Insert your Netlify / GitHub Pages Link Here]
-* **GitHub Repository:** [Insert your GitHub Repo Link Here]
+* **Live Site:** [https://businesswebsite-form-validation.netlify.app/]
+* **GitHub Repository:** [https://github.com/enummanuel/businesswebsite-form-validation.git]
 
 ---
 
