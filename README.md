@@ -2,13 +2,13 @@
 
 A modern, responsive business portfolio website built as part of the Outcome School Web Development curriculum (Week 8 Session 2). The application features responsive visual layouts, smooth UI interactions, custom inline JavaScript form validation, and full live deployment.
 
-## 🚀 Live Demo & Repository
+## Live Demo & Repository
 * **Live Site:** [https://businesswebsite-form-validation.netlify.app/]
 * **GitHub Repository:** [https://github.com/enummanuel/businesswebsite-form-validation.git]
 
 ---
 
-## ✨ Features
+## Features
 
 * **Responsive Layout:** Dynamic grid and flexbox layout designed for desktop, tablet, and mobile views.
 * **Custom Navigation Bar:** Clean, styled header navigation with quick scroll links across content sections.
@@ -18,7 +18,7 @@ A modern, responsive business portfolio website built as part of the Outcome Sch
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **HTML5:** Semantic markup and structured layout[cite: 2].
 * **CSS3:** Flexbox, CSS Grid, media queries for mobile responsiveness, hover micro-interactions, and custom styling[cite: 2].
@@ -26,7 +26,7 @@ A modern, responsive business portfolio website built as part of the Outcome Sch
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ├── index.html       # Main HTML structure and section layout
